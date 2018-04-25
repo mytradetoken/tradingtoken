@@ -10,7 +10,7 @@ Trading Token is an ERC-827 token easily purchased and sold on a number of excha
 
 ## Technology
 
-Built on top of Ethereum,Trading Token uses smart contract technology to verify transactions cryptographically, ensuring the validity and security of all tokens exchanged between users.  Compared to a pure cryptocurrency like Bitcoin, which uses blockchain technology to verify transactions of simple currency value, Ethereum’s concept of transaction verification was designed from the ground up to be extensible, allowing for the creation of more complicated storing and transactions of data without the need for a central authority. This allows Trading Token to be globally exchangeable, and transactions verifiable, without the need for a middleman.  Extensive information on the underlying technology can be found in the [Etherium white paper](https://github.com/ethereum/wiki/wiki/White-Paper).
+Built on top of Ethereum, Trading Token uses smart contract technology to verify transactions cryptographically, ensuring the validity and security of all tokens exchanged between users.  Compared to a pure cryptocurrency like Bitcoin, which uses blockchain technology to verify transactions of simple currency value, Ethereum’s concept of transaction verification was designed from the ground up to be extensible, allowing for the creation of more complicated storing and transactions of data without the need for a central authority. This allows Trading Token to be globally exchangeable, and transactions verifiable, without the need for a middleman.  Extensive information on the underlying technology can be found in the [Ethereum white paper](https://github.com/ethereum/wiki/wiki/White-Paper).
 
 ## More Information
 
